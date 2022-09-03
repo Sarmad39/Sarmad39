@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sarmad Shehroz @Sarmad39
 - 👀 I’m interested in Mobile Application Development 
 - 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on flutter projects 
+- 🧐 I have basic knowledge of Python,C++ programming 
 - 📫 How to reach me kshehroz99@gmail.com
 
 <!---
