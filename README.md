@@ -2,7 +2,11 @@
 - 👀 I’m interested in Mobile Application Development 
 - 🌱 I’m currently learning and working in flutter Development
 - 💞️ I’m looking to collaborate on flutter projects 
-- 🧐 Languages : Dart(proficient with flutter),Python,C++ programming 
+- 🧐 Languages : Proficient in Dart and flutter
+- 🛠️ Tools: Vs Code, Android Studio, Git
+- 🖥️ State Management: Getx, Provider
+- 🔄 Mobile Features: Push Notifications, Deep Linking, Real-time chat, Flavours for different development environments
+- ☁️ Platforms: Firebase, Github, One Signal, REST API,
 - 📫 Gmail : kshehroz99@gmail.com
 
 <!---
